@@ -491,6 +491,7 @@ cursor: pointer;
 }
 .modal-index form input{
   border: 1px solid var(--black-text);
+  padding: .5rem;
 }
 .modal-index label{
   margin: .5rem 0;
@@ -499,6 +500,7 @@ cursor: pointer;
   letter-spacing: .2rem;
 }
 .modal-index textarea{
+  padding: 1rem;
   margin-bottom: 2rem;
 }
 
@@ -511,13 +513,12 @@ cursor: pointer;
   color: var(--blue-text);
 }
 #popup-form input{
-  border-radius: 1.5rem;
+ 
   padding: 1rem 1rem;
   background-color: rgba(0,0,0,.1);
 
 }
 #popup-form textarea{
-  border-radius: 2rem;
   font-size: 1.5rem;
   padding: 0 1rem;
   background-color: rgba(0,0,0,.1);
@@ -531,7 +532,6 @@ cursor: pointer;
   letter-spacing: .2rem;
   margin-bottom: 2rem;
   border: none;
-  border-radius: 1rem;
   padding: 1rem ;
   color: #fff;
 

@@ -1,0 +1,27 @@
+
+#thanks {
+  background: var(--background);
+  width: 100%;
+  height: 90vh;
+  margin-bottom: 5rem;
+}
+
+#thanks h3{
+  width: 60%;
+  font-size: 3rem;
+  font-family: 'Bebas Neue';
+  color: var(--blue-text);
+  margin:  15vh auto;
+  border-bottom: 3px solid var(--blue-text);
+  
+}
+#thanks p {
+  width: 60%;
+  margin: 10vh auto;
+  font-size: 2.7rem;
+  font-family: 'Bebas Neue';
+  line-height: 1.5;
+  opacity: .7;
+  padding-bottom: 2rem;
+  color: black;
+}

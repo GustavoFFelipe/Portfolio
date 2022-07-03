@@ -1,0 +1,7 @@
+main {
+  z-index: -1000;
+}
+#cases {
+  background: var(--blue-text);
+  margin-top: 6.5rem;
+}
